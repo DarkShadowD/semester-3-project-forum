@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Lundt\Documents\Skole\Datamatiker\Projekter\semester 3 project-forum\codebase\git\git\Webserver (MVC)
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Lundt/Documents/Skole/Datamatiker/Projekter/semester 3 project-forum/codebase/git/git/Webserver (MVC)/Views/Forum/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1cSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Lundt/Documents/Skole/Datamatiker/Projekter/semester 3 project-forum/codebase/git/git/Webserver (MVC)/Views/Forum/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ydW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
