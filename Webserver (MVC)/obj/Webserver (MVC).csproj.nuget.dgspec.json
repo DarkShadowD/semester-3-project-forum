@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\copy MVC\\Webserver (MVC) semester 3 Forum\\Webserver (MVC)\\Webserver (MVC).csproj": {}
+    "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\git\\Webserver (MVC)\\Webserver (MVC).csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\copy MVC\\Webserver (MVC) semester 3 Forum\\Webserver (MVC)\\Webserver (MVC).csproj": {
+    "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\git\\Webserver (MVC)\\Webserver (MVC).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\copy MVC\\Webserver (MVC) semester 3 Forum\\Webserver (MVC)\\Webserver (MVC).csproj",
+        "projectUniqueName": "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\git\\Webserver (MVC)\\Webserver (MVC).csproj",
         "projectName": "Webserver (MVC)",
-        "projectPath": "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\copy MVC\\Webserver (MVC) semester 3 Forum\\Webserver (MVC)\\Webserver (MVC).csproj",
+        "projectPath": "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\git\\Webserver (MVC)\\Webserver (MVC).csproj",
         "packagesPath": "C:\\Users\\Lundt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\copy MVC\\Webserver (MVC) semester 3 Forum\\Webserver (MVC)\\obj\\",
+        "outputPath": "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\git\\Webserver (MVC)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lundt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
