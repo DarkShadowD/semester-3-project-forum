@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lundt\\.nuget\\packages\\": {}
+    "C:\\Users\\Ian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\copy MVC\\Webserver (MVC) semester 3 Forum\\Webserver (MVC)\\Webserver (MVC).csproj",
+      "projectUniqueName": "C:\\Users\\Ian\\Source\\Repos\\semester-3-project-forum\\Webserver (MVC)\\Webserver (MVC).csproj",
       "projectName": "Webserver (MVC)",
-      "projectPath": "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\copy MVC\\Webserver (MVC) semester 3 Forum\\Webserver (MVC)\\Webserver (MVC).csproj",
-      "packagesPath": "C:\\Users\\Lundt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lundt\\Documents\\Skole\\Datamatiker\\Projekter\\semester 3 project-forum\\codebase\\git\\copy MVC\\Webserver (MVC) semester 3 Forum\\Webserver (MVC)\\obj\\",
+      "projectPath": "C:\\Users\\Ian\\Source\\Repos\\semester-3-project-forum\\Webserver (MVC)\\Webserver (MVC).csproj",
+      "packagesPath": "C:\\Users\\Ian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ian\\Source\\Repos\\semester-3-project-forum\\Webserver (MVC)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lundt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
