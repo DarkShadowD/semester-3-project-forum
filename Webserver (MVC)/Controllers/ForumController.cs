@@ -10,7 +10,7 @@ namespace Webserver__MVC_.Controllers
         {
             return View();
         }
-        // GET: HomeController
+        // GET: ForumController/Home
         public ActionResult Home()
         {
             return View();
