@@ -10,6 +10,11 @@ namespace Webserver__MVC_.Controllers
         {
             return View();
         }
+        // GET: HomeController
+        public ActionResult Home()
+        {
+            return View();
+        }
 
         public ActionResult Privacy()
         {
