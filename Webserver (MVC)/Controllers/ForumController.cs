@@ -10,6 +10,11 @@ namespace Webserver__MVC_.Controllers
         {
             return View();
         }
+        // GET: ForumController/Home
+        public ActionResult Home()
+        {
+            return View();
+        }
 
         public ActionResult Privacy()
         {
